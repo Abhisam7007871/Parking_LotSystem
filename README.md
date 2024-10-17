@@ -9,7 +9,7 @@ Remove Vehicle: Remove a vehicle from the parking lot based on the registration 
 Check Availability: Check the availability of vehicle spaces on a specific floor for a given vehicle type.
 Generate Token: Generate a token ID for each vehicle added to the parking lot.
 Calculate Parking Fee: Calculate the total parking fee based on the duration of parking and vehicle type.
-
+     
 ## Cost Structure
 
 Bike: ₹10 per hour
