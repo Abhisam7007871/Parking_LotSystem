@@ -15,7 +15,7 @@ Calculate Parking Fee: Calculate the total parking fee based on the duration of 
 Bike: ₹10 per hour
 Car/Jeep: ₹20 per hour
 Bus/Truck: ₹30 per hour
-    
+                    
 ## Use Cases
 
 Initialize Parking Lot: Initialize the parking lot with a specific number of floors and vehicle spaces per floor for each vehicle type.
