@@ -2,6 +2,7 @@
 
 This project implements a car parking system in Java that can accommodate different types of vehicles and supports a configurable cost strategy. The system provides functionalities to initialize the parking lot, add vehicle details, remove vehicles, and check the availability of vehicle spaces. The system also supports a flat cost structure based on vehicle types.
 
+
 ## Functionalities
 Initialize the Parking Lot: Configure the parking lot with a specified number of floors and spaces per floor for each vehicle type.
 Add Vehicle: Add vehicle details to the parking lot, including vehicle type, registration number, color, and any other necessary attributes.
