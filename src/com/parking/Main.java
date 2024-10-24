@@ -20,6 +20,7 @@ public class Main {
 		// Initialize the parking lot
 		initializeParkingLot(sc);
 
+		
 		while (true) {
 			System.out.println("<-------------------------------------------------------->");
 			System.out.println(" select an option:");
