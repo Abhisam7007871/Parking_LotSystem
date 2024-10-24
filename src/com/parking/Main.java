@@ -2,7 +2,6 @@
 package com.parking;
 
 import java.util.Scanner;
-
 import com.parking.exception.NoSpaceAvailableException;
 import com.parking.exception.WrongDetailException;
 import com.parking.service.ParkingService;
