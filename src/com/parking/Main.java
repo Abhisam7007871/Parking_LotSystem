@@ -1,4 +1,3 @@
-
 package com.parking;
 
 import java.util.Scanner;
